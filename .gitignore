@@ -1,0 +1,7 @@
+archive/*
+.idea/*
+src/*
+*.url
+*.sql
+*txt
+git/*
